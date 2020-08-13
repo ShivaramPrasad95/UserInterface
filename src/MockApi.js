@@ -54,9 +54,7 @@ export default class CheckCalendar extends Component {
   render() {
     return (
       <div className="mock__container">
-        <h1>Welcome to MocK API</h1>
-        {/* <button className="btn btn-danger">Danger</button> */}
-        {/* <img src="https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png" alt="logo"/> */}
+        <h1>FullThrottle Labs</h1>
         <div class="form-group">
           <select className="form-control" id="sel1" onChange={this.check}>
             <option></option>
