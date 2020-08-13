@@ -27,4 +27,8 @@ Calendar app navigation can be improved a bit.
 
 ## Screenshots
 
+HomePage
+![](<https://uploads.codesandbox.io/uploads/user/43b411f3-691a-4468-9bb0-9888cb3261ef/3FMB-Screenshot+(7).png>)
+
+ModalCalendar
 ![](<https://uploads.codesandbox.io/uploads/user/43b411f3-691a-4468-9bb0-9888cb3261ef/PRsp-Screenshot+(9).png>)
