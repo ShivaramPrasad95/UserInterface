@@ -4,8 +4,8 @@ Created with CodeSandbox. Responsive site. Mobile compatible.
 
 ## Mocky API
 
-[url](https://pip.pypa.io/en/stable/)
-Collecting the users data using a API call from our react app by importing a tool called [Axios](https://www.digitalocean.com/community/tutorials/react-axios-react).
+[API](https://pip.pypa.io/en/stable/)
+Collecting the users data using a API call from our react app by importing a module called [Axios](https://www.digitalocean.com/community/tutorials/react-axios-react).
 
 ```bash
 import axios from "axios";
@@ -27,8 +27,10 @@ Calendar app navigation can be improved a bit.
 
 ## Screenshots
 
-HomePage
+## HomePage
+
 ![](<https://uploads.codesandbox.io/uploads/user/43b411f3-691a-4468-9bb0-9888cb3261ef/3FMB-Screenshot+(7).png>)
 
-ModalCalendar
+## ModalCalendar
+
 ![](<https://uploads.codesandbox.io/uploads/user/43b411f3-691a-4468-9bb0-9888cb3261ef/PRsp-Screenshot+(9).png>)

@@ -83,7 +83,6 @@ function RecentActivity(props) {
   let lastEndTime = props.event[eventLength].end_time;
   let removeTime = lastEndTime.split(" ").slice(-1);
   let finalEndTime = lastEndTime.replace(removeTime, " ");
-  // console.log(lastEndTime.replace(removeTime, " "));
 
   // finding the day difference from last activity that they did
   let todayActivity = moment(finalEndTime).fromNow();

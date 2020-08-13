@@ -61,7 +61,6 @@ export default class CheckCalendar extends Component {
 }
 
 function events(param) {
-  // console.log("jdijodjicsdjo", param);
   // set title
   let title = "Activity";
   // set allDay
@@ -132,5 +131,4 @@ function timeConvertor(time) {
   }
 
   return hour + ":" + min;
-  // console.log(hour + ":" + min);
 }
