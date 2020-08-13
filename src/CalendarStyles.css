@@ -1,0 +1,64 @@
+body {
+  overflow: scroll;
+}
+/* hide scrollbar on the page */
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* make scrollbar transparent */
+}
+
+/* button */
+.toggleBtn {
+  display: flex;
+}
+
+.container {
+  width: 600px;
+  height: 400px;
+  margin: 0 auto;
+  padding: 50px;
+}
+.rbc-event-content {
+  font-size: 12px;
+}
+
+/* .rbc-toolbar .rbc-btn-group .rbc-toolbar-label */
+/* .rbc-btn-group{
+  display: none;
+} */
+
+.rbc-event {
+  display: flex;
+
+  /* background-color: rgb(151, 38, 91); */
+  margin-left: 6px;
+  text-align: center;
+  padding-left: 2px;
+}
+
+.rbc-today {
+  background-color: rgb(152, 167, 207);
+  color: white;
+}
+
+span:nth-child(3) {
+  display: none;
+}
+
+.rbc-event-label {
+  display: flex;
+  flex-wrap: wrap;
+
+  font-size: 12px;
+  /* padding: 10px; */
+}
+
+/* current Time line */
+.rbc-current-time-indicator {
+  border: 1px solid yellow;
+}
+
+/* month title name */
+.rbc-toolbar-label {
+  font-weight: 900;
+}
